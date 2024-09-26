@@ -7,3 +7,5 @@ Símbolo de patrimonio y devoción en el desierto, la iglesia San Francisco de C
 ###### Jueves 10 de octubre, 2024
 
 - - - - - 
+
+![osorio](https://github.com/user-attachments/assets/b4373496-a87e-4427-a659-63cf60ad86fb)
