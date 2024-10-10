@@ -2,9 +2,12 @@
 <svg id="Capa_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 845.86 1034">
   <defs>
     <style>
+      
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed");
+      
       .cls-1 {
         fill: #90414b;
-        font-family: Helvetica-Condensed-BoldObl, 'Helvetica Condensed';
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
         font-weight: 700;
       }
 
@@ -17,7 +20,7 @@
       }
 
       .cls-2, .cls-4 {
-        font-family: Helvetica-Condensed, 'Helvetica Condensed';
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
       }
 
       .cls-5 {
@@ -33,7 +36,7 @@
       }
 
       .cls-3 {
-        font-family: Helvetica-Condensed-Oblique, 'Helvetica Condensed';
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
       }
     </style>
   </defs>
