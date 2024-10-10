@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1074.99 985.74">
+  <defs>
+    <style>
+
+      @import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed");
+
+      .cls-1 {
+        font-size: 28.22px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
+      }
+
+      .cls-1, .cls-8, .cls-9, .cls-11, .cls-10 {
+        fill: #453a36;
+      }
+
+      .cls-12 {
+        font-size: 37.5px;
+      }
+
+      .cls-12, .cls-3, .cls-4, .cls-6, .cls-13, .cls-14, .cls-15 {
+        fill: #1d1d1c;
+      }
+
+      .cls-12, .cls-15, .cls-16 {
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
+        font-weight: 700;
+      }
+
+      .cls-17 {
+        stroke-width: 2.83px;
+      }
+
+      .cls-17, .cls-18 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4, .cls-15 {
+        font-size: 30px;
+      }
+
+      .cls-18 {
+        stroke-dasharray: 3.69 3.69;
+        stroke-width: 1.42px;
+      }
+
+      .cls-3, .cls-13 {
+        font-size: 28.87px;
+      }
+
+      .cls-5 {
+        fill: #a29c9a;
+        font-size: 35.06px;
+        letter-spacing: .1em;
+      }
+
+      .cls-6 {
+        font-size: 22.5px;
+      }
+
+      .cls-7 {
+        font-size: 26.29px;
+      }
+
+      .cls-13, .cls-14, .cls-11 {
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
+        font-style: oblique;
+      }
+
+      .cls-8 {
+        font-size: 28.22px;
+      }
+
+      .cls-9 {
+        font-size: 28.22px;
+      }
+
+      .cls-14 {
+        font-size: 28.91px;
+      }
+
+      .cls-11 {
+        font-size: 28.22px;
+      }
+
+      .cls-16 {
+        font-size: 39.44px;
+      }
+
+      .cls-10 {
+        font-size: 28.22px;
+      }
+    </style>
+  </defs>
+  <g id="INFO">
+    <image width="1018" height="928" transform="translate(56.44)" href="ubicacion.png"/>
+    <g>
+      <text class="cls-8" transform="translate(531.23 70.07) rotate(6.05)"><tspan x="0" y="0">Lord Cochrane</tspan></text>
+      <text class="cls-1" transform="translate(353.73 376.85) rotate(-85.35)"><tspan x="0" y="0">Río Loa</tspan></text>
+      <text class="cls-9" transform="translate(546.71 354.9) rotate(4.45)"><tspan x="0" y="0">Plaza de</tspan><tspan x="-7.87" y="33.86">Chiu Chiu</tspan></text>
+      <text class="cls-16" transform="translate(359.88 483.14)"><tspan x="0" y="0">Iglesia San Francisco</tspan><tspan x="71.15" y="43.82">de Chiu Chiu</tspan></text>
+      <text class="cls-5" transform="translate(326.62 177.42)"><tspan x="0" y="0">CHIU CHIU</tspan></text>
+      <text class="cls-7" transform="translate(378.86 116.03)"><tspan x="0" y="0">N</tspan></text>
+      <text class="cls-11" transform="translate(730.66 368.54)"><tspan x="0" y="0">50 m</tspan></text>
+      <text class="cls-10" transform="translate(700.4 242.68) rotate(-85.9)"><tspan x="0" y="0">Esmeralda</tspan></text>
+    </g>
+    <g>
+      <text class="cls-6" transform="translate(33.75 909.74)"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-6" transform="translate(0 795.84)"><tspan x="0" y="0">3000</tspan></text>
+      <line class="cls-18" x1="57.02" y1="865.44" x2="1074.99" y2="865.44"/>
+      <line class="cls-18" x1="56.09" y1="828.12" x2="1074.06" y2="828.12"/>
+      <line class="cls-18" x1="55.63" y1="790.8" x2="1073.59" y2="790.8"/>
+      <line class="cls-18" x1="55.69" y1="752.03" x2="1073.66" y2="752.03"/>
+      <text class="cls-6" transform="translate(0 833.53)"><tspan x="0" y="0">2000</tspan></text>
+      <text class="cls-6" transform="translate(0 758.71)"><tspan x="0" y="0">4000</tspan></text>
+      <text class="cls-6" transform="translate(0 870.34)"><tspan x="0" y="0">1000</tspan></text>
+      <text class="cls-15" transform="translate(914.37 735.74)"><tspan x="0" y="0">Chiu Chiu</tspan></text>
+      <text class="cls-12" transform="translate(910.12 702.6)"><tspan x="0" y="0">2.525 m</tspan></text>
+      <g>
+        <text class="cls-2" transform="translate(150.41 735.68)"><tspan x="0" y="0">Antofagasta</tspan></text>
+        <text class="cls-2" transform="translate(189.96 700.32)"><tspan x="0" y="0">40 m</tspan></text>
+      </g>
+      <text class="cls-4" transform="translate(219.2 978.01)"><tspan x="0" y="0">Medidas en metros sobre el nivel del mar</tspan></text>
+      <text class="cls-13" transform="translate(52.48 939.87)"><tspan x="0" y="0">Océano </tspan><tspan x="1.19" y="37.5">Pacífico</tspan></text>
+      <text class="cls-13" transform="translate(288.85 892.79)"><tspan x="0" y="0">Cordillera de la costa</tspan></text>
+      <text class="cls-13" transform="translate(812 892.79)"><tspan x="0" y="0">Cordillera de Domeyko</tspan></text>
+      <text class="cls-13" transform="translate(559.35 892.79)"><tspan x="0" y="0">Desierto de Atacama</tspan></text>
+      <text class="cls-14" transform="translate(551.39 939.93)"><tspan x="0" y="0">231 km</tspan></text>
+      <text class="cls-3" transform="translate(467.45 779.95)"><tspan x="0" y="0">Región de Antofagasta</tspan></text>
+      <line class="cls-17" x1="57.08" y1="901.81" x2="1074.63" y2="901.81"/>
+    </g>
+  </g>
+</svg>

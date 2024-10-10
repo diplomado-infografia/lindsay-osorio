@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 236.71 1087.01">
+  <defs>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed");
+
+      .cls-1 {
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
+        font-size: 41.5px;
+      }
+
+      .cls-2 {
+        font-family: "Barlow Semi Condensed", Helvetica, Arial, sans-serif;
+        font-size: 64.85px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="INFO">
+    <g>
+      <text class="cls-1" transform="translate(2.13 191.41)"><tspan x="0" y="0">Ventanas</tspan></text>
+      <text class="cls-1" transform="translate(.28 398.62)"><tspan x="0" y="0">Campanas</tspan></text>
+      <text class="cls-1" transform="translate(1.93 641.76)"><tspan x="0" y="0">Vigas</tspan></text>
+      <text class="cls-1" transform="translate(0 36.32)"><tspan x="0" y="0">Puertas</tspan></text>
+      <text class="cls-2" transform="translate(172.76 87.74)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-2" transform="translate(174.83 243.38)"><tspan x="0" y="0">5</tspan></text>
+      <text class="cls-2" transform="translate(172.97 553.05)"><tspan x="0" y="0">9</tspan></text>
+      <text class="cls-2" transform="translate(171.86 1021.57)"><tspan x="0" y="0">20</tspan></text>
+      <image width="150" height="975" transform="translate(2.42 48.96)" href="pictograma.png"/>
+    </g>
+  </g>
+</svg>
