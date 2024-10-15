@@ -28,9 +28,9 @@ cite {
 }
 
 header{
-    padding:25vh;
-    background: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 1)), url("img/fondo_4.jpg");
+   background: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 1)), url("img/fondo_4.jpg");
     background-size: 100% auto;
     background-position: center top;
     background-repeat: no-repeat;
+    padding-top:34vw;
 }
